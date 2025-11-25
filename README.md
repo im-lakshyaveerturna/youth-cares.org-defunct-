@@ -1,1 +1,1 @@
-<h3>Website (WIP) for a non-profit organization, <a href='https://youth-cares.org'>Youth Cares (defunct)</a>.
+<h3> Website (WIP) for a non-profit organization, <a href='https://youth-cares.org'>Youth Cares</a>(defunct)</h3>.
